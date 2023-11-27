@@ -61,6 +61,12 @@
             <artifactId>selenium-java</artifactId>
             <version>4.13.0</version>
         </dependency>
+        <dependency>
+    <groupId>org.qsardb.conversion</groupId>
+    <artifactId>regression</artifactId>
+    <version>1.0.0</version>
+</dependency>
+
     </dependencies>
 
     <build>
